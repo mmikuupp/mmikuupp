@@ -8,6 +8,7 @@ Rakennan tekoälyavusteisesti käytännöllisiä verkkosovelluksia ja automaatio
 - React
 - TypeScript
 - Vite
+- Supabase
 - GitHub
 - Vercel
 - EmailJS
