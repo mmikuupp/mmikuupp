@@ -6,6 +6,7 @@ Rakennan tekoälyavusteisesti käytännöllisiä verkkosovelluksia ja automaatio
 
 - VS Code
 - React
+- JavaScript
 - TypeScript
 - Vite
 - Supabase
