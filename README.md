@@ -15,10 +15,13 @@ Rakennan tekoälyavusteisesti käytännöllisiä verkkosovelluksia ja automaatio
 
 ## Tällä hetkellä työn alla
 
-🚀 Varastovuokrauksen varausjärjestelmä
+
 
 ## Projektit
 
 ### Levytilaustyökalu
 Verkkopohjainen tilaus- ja laskentatyökalu keittiökalustealalle.
 🔗 https://levytilaustyokalu.vercel.app
+
+### Varastovuokrauksen varausjärjestelmä
+🔗 https://varastovuokraus.vercel.app
