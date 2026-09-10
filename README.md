@@ -24,4 +24,5 @@ Verkkopohjainen tilaus- ja laskentatyökalu keittiökalustealalle.
 🔗 https://levytilaustyokalu.vercel.app
 
 ### Varastovuokrauksen varausjärjestelmä
+Verkkopalvelu Limingan Varastotilojen asiakashallintaan ja jonotuslistaan.
 🔗 https://varastovuokraus.vercel.app
